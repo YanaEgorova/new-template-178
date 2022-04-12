@@ -93,6 +93,12 @@
     .hero__block.second {
         width: 40%;
     }
+    .hero__block.first {
+        border-radius: 3rem 0 0 3rem;
+    }
+    .hero__block.third {
+        border-radius: 0 3rem 3rem 0;
+    }
 
     .policy-block {
         display: flex;
@@ -103,5 +109,11 @@
     }
     .policy__block.second {
         width: 40%;
+    }
+    .policy__block.first {
+        border-radius: 3rem 0 0 3rem;
+    }
+    .policy__block.third {
+        border-radius: 0 3rem 3rem 0;
     }
 }
