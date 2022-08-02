@@ -70,10 +70,7 @@
 }
 .policy__block.second {
     padding: 10rem 0;
-    background-image: url('../img/bg2.jpeg');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    background-image: linear-gradient(to bottom, #dce0e3, 70%, #5f85d2);
 }
 
 
