@@ -70,7 +70,7 @@
 }
 .policy__block.second {
     padding: 10rem 0;
-    background-image: linear-gradient(to bottom, #dce0e3, 70%, #5f85d2);
+    background-image: linear-gradient(to bottom, var(--second-brand-color), var(--third-brand-color));
 }
 
 
